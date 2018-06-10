@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ExtendedToDoListApplication {
+public class ApplicationStarter {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ExtendedToDoListApplication.class, args);
+		SpringApplication.run(ApplicationStarter.class, args);
 	}
 }
