@@ -1,4 +1,4 @@
-package com.Extended_ToDoList.Extended_ToDoList;
+package com.Extended_ToDoList;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
